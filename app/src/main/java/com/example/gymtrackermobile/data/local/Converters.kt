@@ -1,4 +1,4 @@
-package com.example.gymtrackermobile
+package com.example.gymtrackermobile.data.local
 
 import androidx.room.TypeConverter
 import com.google.gson.Gson

@@ -1,4 +1,4 @@
-package com.example.gymtrackermobile
+package com.example.gymtrackermobile.model
 
 import androidx.room.Embedded
 import androidx.room.Relation
